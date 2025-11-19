@@ -43,7 +43,19 @@
 
 包含工具栏由左边移动至右边，顶部导航栏100%铺满等...
 
-9. 其它一些小优化
+9. 添加了文章置顶功能
+
+在文章内添加属性
+``` md
+pinned: true
+```
+置顶图标和颜色可自行修改：
+
+图标URL：[https://icones.js.org/collection/material-symbols](https://icones.js.org/collection/material-symbols)
+
+源码路径：`/src/components/PostCard.astro 70-72行`
+
+10. 其它一些小优化
 
 ## 建议
 

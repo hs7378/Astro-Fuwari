@@ -5,6 +5,7 @@ draft: false
 image: "https://www.tr0.cn/uploads/2024/12/22f25331313ea93eaf91858e4ebc7bdc.webp"
 category: ["分类"]
 tags: ["Tag"]
+pinned: true
 ---
 
 这是一个测试文章。
